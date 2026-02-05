@@ -13,4 +13,6 @@ For the pipeline registers:
   EX/MEM: Stores ALU result and write register address
 
 This supports both R and I-type instructions:
+
+
 <img width="585" height="397" alt="image" src="https://github.com/user-attachments/assets/2edf9137-c060-4056-974e-1172503221ac" />

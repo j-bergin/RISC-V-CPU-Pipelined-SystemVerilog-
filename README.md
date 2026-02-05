@@ -16,3 +16,9 @@ This supports both R and I-type instructions:
 
 
 <img width="585" height="397" alt="image" src="https://github.com/user-attachments/assets/2edf9137-c060-4056-974e-1172503221ac" />
+
+
+
+Attached is the full pipeline diagram with file implementations:
+
+<img width="759" height="497" alt="FPGA Pipeline Diagram" src="https://github.com/user-attachments/assets/33b612cf-44bf-4329-a147-956993c1a8e5" />
